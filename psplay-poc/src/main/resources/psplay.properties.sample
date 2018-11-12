@@ -1,0 +1,7 @@
+redirectUrl = http://localhost:8080/psplay-poc/auth
+
+sonosClientId = CLIENT_ID_GOES_HERE
+sonosSecret = SECRET_GOES_HERE
+
+sonosUrl = https://api.sonos.com/login/v3/oauth/access
+
